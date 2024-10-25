@@ -4,7 +4,7 @@ import path from 'path'
 
 export default defineConfig({
   plugins: [react()],
-  base: 'https://ikarus-consultora.github.io/historial-clinico/',
+  base: 'https://team-innova.github.io/historial-clinico/',
   resolve: {
     alias: {
       '@': path.resolve(__dirname, './src'),
